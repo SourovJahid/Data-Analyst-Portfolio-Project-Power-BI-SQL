@@ -1,3 +1,5 @@
+![image](https://github.com/SourovJahid/Data-Analyst-Portfolio-Project-Power-BI-SQL/assets/34420616/ce688b59-c2a3-491b-895f-fb4ba32afe09)
+
 Pizza Sales Dashboard Analysis
 Project Overview
 This project provides an interactive Power BI dashboard that analyzes pizza sales data. The dashboard offers insights into daily and monthly sales trends, revenue, average order values, and sales performance by pizza category and size.
